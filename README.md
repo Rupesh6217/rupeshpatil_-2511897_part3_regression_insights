@@ -1,5 +1,4 @@
 # rupeshpatil_-2511897_part3_regression_insights
-# rohinipatil_2511898_part3_regression_insights
 # Part 3: Regression-Based Business Insights & Model Interpretation
 
 ## Business Problem Summary
